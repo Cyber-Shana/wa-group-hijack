@@ -14,6 +14,4 @@
 
 >`cd wa-group-hijack`
 
->`ls`
-
 >`python hijack.py`
