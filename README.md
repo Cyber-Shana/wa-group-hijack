@@ -1,6 +1,6 @@
 # wa-group-hijack
 
-### Coded By Cyber Shana | Owner Og Cyber Back shot |
+### Coded By Cyber Shana | Owner of Cyber Back shot |
 
 ## Command list 
 
@@ -12,6 +12,8 @@
 
 >`git clone https://github.com/cybershana/wa-group-hijack`
 
->`chmod +x *`
+>`cd wa-group-hijack`
+
+>`ls`
 
 >`python hijack.py`
