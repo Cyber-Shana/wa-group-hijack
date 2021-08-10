@@ -14,4 +14,6 @@
 
 >`cd wa-group-hijack`
 
+>`clear`
+
 >`python hijack.py`
