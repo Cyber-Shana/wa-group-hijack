@@ -43,7 +43,40 @@
 <p style="text-align: left;"><span style="font-size: 14pt; color: #0000ff;"><img src="https://raw.githubusercontent.com/Cyber-Shana/p-gen/e72acb21e0350d91b356e4ae7edc852d886a3c70/WhatsApp%20Image%202021-08-08%20at%2018.29.55.jpeg" alt="" /></span></p>
 
 
- 
+ <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body>
+
+<h2>Animated Buttons - "Pressed Effect"</h2>
+
+<button class="button">Click Me</button>
+
+</body>
+</html>
 
   
 
