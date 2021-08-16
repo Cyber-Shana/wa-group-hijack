@@ -47,8 +47,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.button {
-  padding: 15px 25px;
+.button {padding: 15px 25px;
   font-size: 24px;
   text-align: center;
   cursor: pointer;
@@ -57,22 +56,15 @@
   background-color: #04AA6D;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #999;
-}
+  box-shadow: 0 9px #999;}
+button:hover {background-color: #3e8e41}
 
-.button:hover {background-color: #3e8e41}
-
-.button:active {
-  background-color: #3e8e41;
+.button:active {ackground-color: #3e8e41;
   box-shadow: 0 5px #666;
-  transform: translateY(4px);
-}
+  transform: translateY(4px)}
 </style>
 </head>
 <body>
-
-<h2>Animated Buttons - "Pressed Effect"</h2>
-
 <button class="button">Click Me</button>
 
 </body>
